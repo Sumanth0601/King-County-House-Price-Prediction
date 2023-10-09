@@ -16,7 +16,7 @@ This GitHub project is dedicated to predicting house prices in King County, Wash
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.4
 - NumPy
 - Pandas
 - Matplotlib
