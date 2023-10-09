@@ -40,7 +40,7 @@ This project is open-source.
 
 ## Author
 
-[Your Name]
+T Sumanth
 
 ## Acknowledgments
 
